@@ -3,8 +3,6 @@
 **Overview**  
 Read to Rise is a community literacy project designed to support early reading development among children in Warm Springs, Oregon. The initiative focused on increasing access to bilingual literacy materials, building family engagement, and organizing pop-up reading events in partnership with local educators.
 
-**Deliverable**  
-📄 [Read to Rise Grant Proposal (PDF)](Read_to_Rise_Grant_Proposal.pdf)
 
 **Highlights**
 - Managed a $40,000 budget proposal for bilingual literacy kits and pop-up events.
